@@ -1,0 +1,42 @@
+body{
+    background-image: url(./sunset-1373171_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size:3000px;
+    margin:0px;
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+
+}
+.login-form input{
+    margin: 5px;
+}
+.button{
+    background-color: rgb(48, 231, 48);
+    border: 0px;
+    padding: 5px;
+    border-radius: 8px;
+    font-size: 15px;
+}
+nav{
+    display: flex;
+    justify-content:space-between;
+    margin: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right:50px;
+    
+
+}
+span i {
+    margin:10px;
+}
